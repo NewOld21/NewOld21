@@ -4,7 +4,7 @@ A passionate full‑stack developer building scalable web services and delightfu
 
 ## 🏅 Badges
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrwns1478)](https://solved.ac/new01d)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=new01d)](https://solved.ac/new01d)
 
 ## 🛠 Tech Stacks
 
