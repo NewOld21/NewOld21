@@ -6,9 +6,8 @@ A passionate full‑stack developer building scalable web services and delightfu
 ## 🏅 Badges
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=new01d)](https://solved.ac/new01d)
-<img src="https://camo.githubusercontent.com/2003f6eb3834fb26c101329e4369588077646a4fc3d05d3862e2032b9ab50836/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4e65774f6c6432312673686f775f69636f6e733d74727565267468656d653d76756526686964655f626f726465723d74727565" alt="GitHub Stats" />
-<br>
-<img src="https://camo.githubusercontent.com/bd7560e74e5378a32be0252d958d21c8872a3c5eba913a4c679df418e7843fe4/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4e65774f6c643231266c61796f75743d636f6d70616374267468656d653d76756526686964655f626f726465723d74727565" alt="Top Languages" />
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NewOld21&show_icons=true&theme=vue&hide_border=true)](https://github.com/NewOld21)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NewOld21&layout=compact&theme=vue&hide_border=true)](https://github.com/NewOld21)
 
 ## 🛠 Tech Stacks
 
