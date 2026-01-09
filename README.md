@@ -11,6 +11,10 @@ A passionate full‑stack developer building scalable web services and delightfu
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NewOld21&show_icons=true&theme=vue&hide_border=true)](https://github.com/NewOld21)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NewOld21&layout=compact&theme=vue&hide_border=true)](https://github.com/NewOld21)
 
+## Certification
+정보처리기사
+SQLD
+
 ## 🛠 Tech Stacks
 
 ### Languages & Frameworks
