@@ -15,11 +15,6 @@
 <div align="center">
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=new01d)](https://solved.ac/new01d)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NewOld21&show_icons=true&theme=vue&hide_border=true&cache_seconds=1800)](https://github.com/NewOld21)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NewOld21&layout=compact&theme=vue&hide_border=true&cache_seconds=1800)](https://github.com/NewOld21)
-
 </div>
 
 ---
