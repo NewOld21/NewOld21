@@ -1,3 +1,9 @@
+<div align= "header">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&text=SeHeon's%20GitHub&animation=fadeIn&fontColor=ffffff&fontSize=70" />
+    </div>
+
+    
+
 <div align="center">
 
 # 👋 Hi, I’m **SeHeon Kim**
@@ -15,6 +21,8 @@
 <div align="center">
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=new01d)](https://solved.ac/new01d)
+
+
 </div>
 
 ---
